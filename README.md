@@ -1,7 +1,7 @@
 👋 Hi, I´m Julian Bastidas.
       Mi nickname is Julian_mbp 
 I´m Software Engineer student, and FullStack Developer
-🌱 I´m learning from Artificial Inteligent
+🌱 I´m learning from Artificial Intelligence 
 💞️ I want to collaborate on AI projects,
     as well as projects to help humans automate simple and complex tasks. 
     I would like to work in development for mobile applications. 
