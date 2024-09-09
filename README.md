@@ -6,8 +6,8 @@ I´m Software Engineer student, and FullStack Developer
     as well as projects to help humans automate simple and complex tasks. 
     I would like to work in development for mobile applications. 
     Always open to everything.
-📫 How to reah me: E-mail: 
+📫 How to reach me: E-mail: 
     julian.bastidasmp@gmal.com or Discord @julian_mtb9
-😄 They call me King Julian
+😄 They call me Julian
 ⚡ A curious fact about me is that I like to 
-play guitar and go to the gym to dance with the ladies
+play guitar and go to the gym to dance with the old ladies
