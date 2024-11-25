@@ -1,7 +1,7 @@
 <body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f5f5f5; padding: 20px;">
 
   <div style="background-color: #ffffff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px;">
-    <h1 style="text-align: center; color: #4CAF50;"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> Hi, I'm Julian Bastidas</h1>
+    <h1 style="text-align: center; color: #4CAF50;"> Hi, I'm Julian Bastidas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <h3 style="text-align: center; color: #666;">My nickname is Julian_mbp</h3>
     <h2 style="font-size: 1.2em; text-align: center;">I’m a Software Engineering student and a passionate <b>FullStack Developer.</h2>
       <h2 style="color: #333;">🌱 Currently Learning:</h2>
