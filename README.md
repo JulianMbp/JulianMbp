@@ -38,7 +38,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="Java"> Java
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"> JavaScript
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"> TypeScript
-        <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg](https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png)" height="30" alt="Tailwind"> Tailwind
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="Tailwind"> Tailwind
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="30" alt="Docker"> Docker
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" alt="CSS"> CSS
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" alt="HTML"> HTML
