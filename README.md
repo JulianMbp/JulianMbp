@@ -42,7 +42,7 @@
       </ul>
     </div>
 
-    <div style="margin: 20px 0;">
+  <div style="margin: 20px 0;">
       <h2 style="color: #333;">😄 About Me:</h2>
       <p>They call me Julian, and a fun fact about me is that I enjoy playing the guitar and going to the gym to dance with the old ladies — they always bring the best energy!</p>
     </div>
@@ -55,9 +55,6 @@
   <img src="https://github-readme-stats-kappa-lime-71.vercel.app/api?username=JulianMbp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Julian's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-kappa-lime-71.vercel.app/api/top-langs/?username=JulianMbp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 <p align="center">
   <!-- Contribution heatmap: no GitHub API calls, no auth required -->
@@ -66,12 +63,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=JulianMbp&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JulianMbp&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ## 🐍 Contribution Snake
