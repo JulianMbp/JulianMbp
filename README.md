@@ -21,6 +21,20 @@
       <h2 style="color: #333;">😄 About Me:</h2>
       <p>They call me Julian, and a fun fact about me is that I enjoy playing the guitar and going to the gym to dance with the old ladies — they always bring the best energy!</p>
     </div>
+    ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Contribution heatmap: no GitHub API calls, no auth required -->
+  <img src="https://ghchart.rshah.org/ChrisSantacruz" alt="GitHub contribution chart for ChrisSantacruz" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisSantacruz&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+---
 
 </body>
 
