@@ -42,7 +42,7 @@
       </ul>
     </div>
 
-  <div style="margin: 20px 0;">
+    <div style="margin: 20px 0;">
       <h2 style="color: #333;">😄 About Me:</h2>
       <p>They call me Julian, and a fun fact about me is that I enjoy playing the guitar and going to the gym to dance with the old ladies — they always bring the best energy!</p>
     </div>
@@ -52,11 +52,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulianMbp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Julian's GitHub Stats" />
+  <img src="https://github-readme-stats-kappa-lime-71.vercel.app/api?username=JulianMbp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Julian's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianMbp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-kappa-lime-71.vercel.app/api/top-langs/?username=JulianMbp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulianMbp&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=JulianMbp&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ## 🏆 GitHub Trophies
