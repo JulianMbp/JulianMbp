@@ -7,17 +7,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&background=1A1B27&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Product+Owner+%2F+Project+Manager;Fintech+%2B+Banking+%2B+AI;3x+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 </p>
 
-    <h2 style="font-size: 1.2em; text-align: center;">Full-Stack Developer with 4+ years building production systems in <b>banking, fintech and AI</b> — currently at Stefanini Group for Banco de Bogotá.</h2>
+  <h2 style="font-size: 1.2em; text-align: center;">Full-Stack Developer with 4+ years building production systems in <b>banking, fintech and AI</b> — currently at Stefanini Group for Banco de Bogotá.</h2>
 
-      <h2 style="color: #333;">🌱 Currently Learning:</h2>
+  <h2 style="color: #333;">🌱 Currently Learning:</h2>
       <p>I'm diving into the world of <b>Artificial Intelligence</b>, exploring its potential to revolutionize technology.</p>
 
-    <div style="margin: 20px 0;">
+  <div style="margin: 20px 0;">
       <h2 style="color: #333;">💞️ Collaboration:</h2>
       <p>I'm looking forward to collaborating on AI projects and initiatives aimed at automating tasks — from simple to complex. My interests also include mobile app development. I'm always open to new challenges and ideas!</p>
     </div>
 
-    <div style="margin: 20px 0;">
+  <div style="margin: 20px 0;">
       <h2 style="color: #333;">🏆 Highlights:</h2>
       <ul>
         <li>🥇 3x Hackathon Winner (PotenCIA Summit, Nexo Digital, TribuIA)</li>
@@ -27,14 +27,14 @@
       </ul>
     </div>
 
-    <div style="margin: 20px 0;">
+  <div style="margin: 20px 0;">
       <h2 style="color: #333;">🛠️ Tech Stack:</h2>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=angular,react,nextjs,flutter,nestjs,nodejs,java,spring,python,django,aws,docker,postgres,mongodb,typescript,solidity&theme=dark" alt="Tech Stack Icons" />
       </p>
     </div>
 
-    <div style="margin: 20px 0;">
+  <div style="margin: 20px 0;">
       <h2 style="color: #333;">📫 How to Reach Me:</h2>
       <ul>
         <li><b>Email:</b> <a href="mailto:julian.bastidasmp@gmail.com" style="color: #007BFF;">julian.bastidasmp@gmail.com</a></li>
@@ -42,7 +42,7 @@
       </ul>
     </div>
 
-    <div style="margin: 20px 0;">
+  <div style="margin: 20px 0;">
       <h2 style="color: #333;">😄 About Me:</h2>
       <p>They call me Julian, and a fun fact about me is that I enjoy playing the guitar and going to the gym to dance with the old ladies — they always bring the best energy!</p>
     </div>
