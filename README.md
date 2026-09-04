@@ -27,11 +27,11 @@
 
 <p align="center">
   <!-- Contribution heatmap: no GitHub API calls, no auth required -->
-  <img src="https://ghchart.rshah.org/ChrisSantacruz" alt="GitHub contribution chart for ChrisSantacruz" />
+  <img src="https://ghchart.rshah.org/JulianMbp" alt="GitHub contribution chart for Julian" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisSantacruz&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulianMbp&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ---
